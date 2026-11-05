@@ -48,11 +48,11 @@ An open-source, interactive 3D simulator for solar and lunar eclipses, built wit
       width="100%">
   </a>
 
-
-
 </div>
 
+---
 
+## Key Features
 
 
 - Catalogue of **71,264 solar** and **72,272 lunar eclipses**, spanning approximately 30,000 years (13,000 BC–17,000 AD).
