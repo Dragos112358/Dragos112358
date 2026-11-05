@@ -67,7 +67,7 @@ An implementation and performance-study project exploring the **Canny edge-detec
 ## Technical Interests & Tools
 
 **Languages**  
-`C++` · `Python` · `C`, `Java`, `Matlab`, `.NET` · `HTML/CSS`
+`C++` · `Python` · `C`, `Java`, `Matlab`, `.NET` · `HTML/CSS`, `Assembly`
 
 **Machine Learning & AI**  
 `PyTorch` · `ONNX` · `Neural Networks` · `Monte Carlo Tree Search`
