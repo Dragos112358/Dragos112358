@@ -41,7 +41,7 @@ An **AlphaZero-style chess engine** combining a residual policy-and-value networ
 - Includes a desktop application for training, match arenas, model comparisons, and strength testing against Stockfish.
 - Documents benchmark results and their limitations, including the uncertainty of Elo estimates from the current match sample.
 
-**[Repository](https://github.com/Dragos112358/ai-chess-bot)** · **[Play in browser](https://dragos112358.github.io/)**
+**[Repository](https://github.com/Dragos112358/ai-chess-bot)** · **[Play in browser](https://dragos112358.github.io/ai-chess-bot/)**
 
 ### 🖼️ [Canny-Core — Parallel Edge Detection](https://github.com/Dragos112358/Canny-Core)
 
