@@ -51,6 +51,8 @@ An open-source, interactive 3D simulator for solar and lunar eclipses, built wit
 </div>
 
 
+
+
 - Catalogue of **71,264 solar** and **72,272 lunar eclipses**, spanning approximately 30,000 years (13,000 BC–17,000 AD).
 - Renders 3D umbra and penumbra cones and their interaction with a **WGS84 ellipsoid**, with geospatial terrain from Cesium.
 - Computes solar-eclipse contact times (C1–C4), shadow paths, and city visibility information.
